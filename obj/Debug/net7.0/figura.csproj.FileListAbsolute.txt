@@ -1,0 +1,15 @@
+C:\Users\Andrés\figura\bin\Debug\net7.0\figura.exe
+C:\Users\Andrés\figura\bin\Debug\net7.0\figura.deps.json
+C:\Users\Andrés\figura\bin\Debug\net7.0\figura.runtimeconfig.json
+C:\Users\Andrés\figura\bin\Debug\net7.0\figura.dll
+C:\Users\Andrés\figura\bin\Debug\net7.0\figura.pdb
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.csproj.AssemblyReference.cache
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.AssemblyInfoInputs.cache
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.AssemblyInfo.cs
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.csproj.CoreCompileInputs.cache
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.dll
+C:\Users\Andrés\figura\obj\Debug\net7.0\refint\figura.dll
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.pdb
+C:\Users\Andrés\figura\obj\Debug\net7.0\figura.genruntimeconfig.cache
+C:\Users\Andrés\figura\obj\Debug\net7.0\ref\figura.dll
